@@ -1,5 +1,5 @@
 # Fifa22 Icons Unlocked
-![cover](https://files.tecnoblog.net/wp-content/uploads/2021/07/fifa-22-e1626099539525.png)
+![cover](https://hoanghamobile.com/tin-tuc/wp-content/uploads/2024/01/fifa-22-thumb.jpg)
 
 ## Icons unlocked for all modes, new icons, team names modified, and much more
 
