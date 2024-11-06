@@ -1,8 +1,12 @@
-# Fifa22-Ultimate-Mode
-Icons unlocked for all modes, new icons, team names modified, and much more
+# Fifa22 Icons Unlocked
+![cover](https://files.tecnoblog.net/wp-content/uploads/2021/07/fifa-22-e1626099539525.png)
+
+## Icons unlocked for all modes, new icons, team names modified, and much more
+
+![banner](https://www.sporf.com/wp-content/uploads/2021/07/706a46dd-fut21-icons-graphic-xl-m.png)
 
 # Usage
-1. Download the `squads` file from repository (nubers in the end don't matter)
+1. Download the `squads` [file](https://github.com/Armen-Jean-Andreasian/Fifa22-Icons-Unlocked/blob/main/README.md) from repository (nubers in the end don't matter)
 2. Replace the existing `squads` file with the downloaded file in `C:\Users\pc\Documents\FIFA 22\settings` directory.
 3. Run the game.
 4. Customise -> Profile -> Load Squad and choose `Icons Premium World`
